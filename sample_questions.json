@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "type": "single",
+    "content": "Python 中哪个关键字用于定义函数？",
+    "options": [
+      "A. function",
+      "B. def",
+      "C. define",
+      "D. func"
+    ],
+    "answer": "B",
+    "explanation": ""
+  },
+  {
+    "id": 2,
+    "type": "multiple",
+    "content": "以下哪些是 Python 的内置数据类型？",
+    "options": [
+      "A. list",
+      "B. array",
+      "C. dict",
+      "D. tuple"
+    ],
+    "answer": "ACD",
+    "explanation": ""
+  },
+  {
+    "id": 3,
+    "type": "true_false",
+    "content": "Python 是一种编译型语言。",
+    "options": [],
+    "answer": "错误",
+    "explanation": ""
+  },
+  {
+    "id": 4,
+    "type": "single",
+    "content": "在 Python 中，如何创建一个空列表？",
+    "options": [
+      "A. []",
+      "B. {}",
+      "C. ()",
+      "D. <>"
+    ],
+    "answer": "A",
+    "explanation": ""
+  },
+  {
+    "id": 5,
+    "type": "true_false",
+    "content": "Python 中的字符串是不可变的。",
+    "options": [],
+    "answer": "正确",
+    "explanation": ""
+  }
+]
